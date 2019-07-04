@@ -321,16 +321,16 @@
 "confirm_delete" = "削除すると再登録が必要になります。";
 
 /* Camera access prompt title */
-"camera_prompt_title" = "カメラへのアクセスが必要です。";
+"camera_prompt_title" = "カメラへのアクセスが必要";
 
 /* Camera access prompt message */
-"camera_prompt_message" = "tiqrはQRコードをスキャンするため、カメラへのアクセスが必要です。 設定でカメラへのアクセスを許可してください。";
+"camera_prompt_message" = "tiqrはQRコードをスキャンするため、カメラへのアクセスが必要です。 カメラへのアクセスを許可してください。";
 
 /* Name of the settings app */
 "settings_app_name" = "設定";
 
 /* TouchID */
-"touch_id_reason" = "Tiqr wants to save the identity";
+"touch_id_reason" = "tiqrに認証情報を保存";
 
 /* Cancel */
 "cancel" = "いいえ";
@@ -342,10 +342,10 @@
 "app_version" = "App version: %@";
 
 /* Use pincode fallback button */
-"pin_fallback_button" = "PINの仕様";
+"pin_fallback_button" = "PINの認証に変更";
 
 /* Upgrade account to TouchID alert title */
-"upgrade_to_biometric_id" = "生体認証を利用しますか？";
+"upgrade_to_biometric_id" = "生体認証の利用";
 
 /* Upgrade account to TouchID alert message */
 "upgrade_to_touch_id_message" = "PINコードの代わりにTouch IDを使いますか？";
